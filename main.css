@@ -1,0 +1,9 @@
+body{
+    background-image: url(images/qatar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contenedor{
+    width: 90%;
+    margin: 5% 5% 0 0;
+}
